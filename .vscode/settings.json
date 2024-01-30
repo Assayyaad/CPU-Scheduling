@@ -1,0 +1,18 @@
+{
+  "editor.defaultFormatter": "redhat.java",
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnSave": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "editor.trimAutoWhitespace": true,
+  },
+  "markdown.replaceSmartQuotes": true,
+}

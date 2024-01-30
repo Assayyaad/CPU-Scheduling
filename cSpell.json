@@ -1,0 +1,21 @@
+{
+  "caseSensitive": true,
+  "useGitignore": true,
+  "language": "en-GB",
+  "files": [
+    "**/*.java",
+    "*.md"
+  ],
+  "words": [
+    "ALKADI",
+    "Alsaiad",
+    "ELSAYED",
+    "KAMEL",
+    "MOHAMAD",
+    "MOSTAFA",
+    "Nabil",
+    "NOUR",
+    "RAYYAN",
+    "SAYED"
+  ]
+}
